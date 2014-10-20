@@ -1,4 +1,4 @@
 Chat
 ====
 
-A simple Java Chat with Threads and Sockets
+A simple Server-Client Java Chat Application implemented with Threads and Sockets. 
